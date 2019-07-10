@@ -7,3 +7,12 @@ The project is divided into three separate Jupyter notebooks:
 1. [Exploratory Data Analysis](https://github.com/melaniewalsh/heart-disease-prediction/blob/master/Exploratory-Data-Analysis.ipynb)
 2. [Modeling](https://github.com/melaniewalsh/heart-disease-prediction/blob/master/Modeling.ipynb)
 3. [Conclusions](https://github.com/melaniewalsh/heart-disease-prediction/blob/master/Conclusions.ipynb)
+
+
+![][1]
+
+[1]: images/k-values.png
+
+![][2]
+
+[2]: images/confusion-matrix.png
